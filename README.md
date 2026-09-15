@@ -11,7 +11,7 @@ Readme · MD
  
 ### 🧠 About Me
  
-- 🔭 Currently working as an **AI Engineer Intern @ Zanati AI**, designing system prompts and evaluating deployment architectures for a fitness/nutrition LLM platform
+- 🔭 Currently working as an **AI Engineer Intern @ Zanati AI && Syntax-Iot**, designing system prompts and evaluating deployment architectures for a fitness/nutrition LLM platform
 - 📝 Published researcher — **IMSA 2025 Conference**, on real-time accident detection using YOLOv8, DeepSort & attention-based autoencoders
 - 🎓 B.Sc. Computer Science, MSA University (2021–2025)
 - 🌱 Deepening my skills in **LoRA fine-tuning, ONNX quantization, and production LLM deployment**
