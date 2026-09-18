@@ -59,7 +59,8 @@
 
 | Project | Description |
 | --- | --- |
-| 🚗 [**Dynamic Scene Understanding for Accident Detection & Prediction**](https://github.com/raouuff/Dynamic-Scene-Understanding-for-Accident-Detection-Prediction) | Graduation project and published research on real-time accident detection and prediction |
+| 📸 [**Chronicle Journal**](https://github.com/raouuff/Chronicle-Journal-A-shared-visual-record) | Authenticated FastAPI backend for a shared visual journal with JWT authentication, ImageKit uploads, captions, feed browsing, and owner-only post deletion |
+| 🚗 [**Dynamic Scene Understanding for Accident Detection & Prediction**](https://github.com/raouuff/Dynamic-Scene-Understanding-for-Accident-Detection-Prediction) | Graduation project and published research on real-time accident detection and prediction using YOLOv8, DeepSort, and attention-based autoencoders |
 | 🔒 [**Fine-Tuned Gemma 3 for PII Detection**](https://github.com/raouuff/Fine-Tuned-Gemma-3) | LoRA fine-tuning and benchmarking framework measuring accuracy, latency, throughput, and VRAM usage |
 | 📋 [**TaskHive**](https://github.com/raouuff/TaskHive) | Full-featured task management dashboard with OAuth authentication, protected routing, and real-time analytics across 8+ modules |
 | 🖼️ [**Image Processing Filters**](https://github.com/raouuff/Image_processing_filters) | Custom image processing and filtering pipeline in Python |
